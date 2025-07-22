@@ -79,7 +79,8 @@ int main(){
 //multiple inheritance
 /*in this a child class inherits from more than one parent class*/
 //multilevel inheritance
-/*in this a child class inherits from a parent class which itself has inherited from another parent class*/
+/*in this a child class inherits from a parent class which itself has 
+inherited from another parent class*/
 class A{
     public:
     void funA(){
@@ -115,7 +116,7 @@ class C : public A{
 };
 
 //hybrid inheritance
-/*in this a child class inherits from more than one parent class and also has child classes of its
+/*in this a child class inherits from more than one parent class and also has child classes of its own
 
 //polymorphism
 /*in this a single entity is represented by multiple forms,
